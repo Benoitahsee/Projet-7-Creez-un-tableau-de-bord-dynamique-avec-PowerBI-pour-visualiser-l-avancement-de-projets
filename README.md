@@ -7,4 +7,4 @@ construire le tableau de bord.
 
 Compétences développées : Collecte et préparation des données, maîtrise de Power BI, création de visualisations.
 
-Soft skills : adaptabilité, écoute active, créativité.
+Soft skills acquis : adaptabilité, écoute active, créativité.
