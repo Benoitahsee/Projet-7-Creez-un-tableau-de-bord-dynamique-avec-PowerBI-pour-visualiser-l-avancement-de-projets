@@ -14,8 +14,11 @@ construire le tableau de bord.
 **Livrable**
 
 Livrables complets et conformes 
+
 Bonne mise en place de l'environnement technique 
+
 Nettoyage des données pertinents
+
 Visualisations appropriées et claires
 
 **Axes d'amélioration** :
