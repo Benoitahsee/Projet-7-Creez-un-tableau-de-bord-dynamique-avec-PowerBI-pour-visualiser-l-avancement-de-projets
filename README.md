@@ -13,13 +13,13 @@ construire le tableau de bord.
 
 **Livrable**
 
-Livrables complets et conformes 
+Livrables complets et conformes.
 
-Bonne mise en place de l'environnement technique 
+Bonne mise en place de l'environnement technique. 
 
-Nettoyage des données pertinents
+Nettoyage des données pertinents.
 
-Visualisations appropriées et claires
+Visualisations appropriées et claires.
 
 **Axes d'amélioration** :
 
@@ -29,6 +29,6 @@ RAS
 
 Remarques :
 
-Bonne gestion du temps de parole
-Travail de qualité 
-Bonne continuation
+Bonne gestion du temps de parole.
+Travail de qualité. 
+Bonne continuation.
